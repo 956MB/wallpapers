@@ -1,6 +1,6 @@
 # Graffiti Variants
 
-[Back < Wallpapers](../README.md)
+[Back < Wallpapers](https://github.com/956MB/wallpapers)
 
 ### Red
 
