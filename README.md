@@ -36,7 +36,7 @@ Wallpapers made by me, MODIFIED for my own use, or ones I just think are cool. F
 
 [Clean](./pLan/pLan-6K-Clean.png) · [Noise](./pLan/pLan-6K-Noise.png)
 
-![pLan](./pLan/pLan-6K-Noise.png)
+![pLan](./pLan/pLan-6K-noise.png)
 
 ## Cybertruck Redesign
 
